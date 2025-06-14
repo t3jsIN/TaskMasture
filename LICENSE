@@ -19,3 +19,23 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+THIRD-PARTY LICENSES:
+====================
+
+This software uses the following open-source packages:
+
+Flutter Framework - BSD 3-Clause License
+Copyright (c) Google Inc.
+
+Dart Programming Language - BSD 3-Clause License  
+Copyright (c) Google Inc.
+
+Additional package licenses can be found in the application
+under Help > About > Third-party Licenses.
+
+DISCLAIMER:
+===========
+TaskMasture is provided as productivity software. While we strive
+for reliability, users should backup important data regularly.
+The developers are not responsible for any data loss or system issues.
